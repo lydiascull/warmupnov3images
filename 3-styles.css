@@ -1,0 +1,10 @@
+.header {
+    background-image: url("images/3-fruit.jpg");
+    height: 300px;
+
+}
+
+.site-id {
+    background-color: rgba(255, 255, 255, 0.7);
+    text-align: center;
+}
